@@ -20,7 +20,7 @@ Aqui existem repositórios sobre tudo que aprendo e projetos pessoais, obviament
   - Autenticação SSO com Identity Server
   - Mobile com flutter (não iniciado ainda)
 
-- **Jurify**: Projeto que foi meu TCC no bacharel em Sistemas de Informação, um sistema de idealizava integrar pessoas e advogados. Possuía dois fronts: um para clientes e um CRM para advogados.
+- **Jurify**: Projeto que foi meu TCC no bacharel em Sistemas de Informação, um sistema de idealizava integrar pessoas e advogados. Possui dois fronts: um para clientes e um CRM para advogados.
   - O sistema de advogados é um CRM para ajudar na gestão do escritório, processos jurídicos e compromissos.
   - O sistema para clientes é um portal para consulta de advogados por localização e especialidade jurídica, simplificando o contato entre as partes.
   - .NET Core no back-end
