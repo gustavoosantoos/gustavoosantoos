@@ -4,6 +4,10 @@ Desenvolvedor full-stack, programando principalmente em .NET Core e Angular.
 
 Pós-graduando em Arquitetura de Sistemas Distribuídos pela PUC Minas.
 
+## Grupo .NET Curitiba
+<a href="https://www.meetup.com/pt-BR/dotnet-curitiba/"><img src="https://secure.meetup.com/s/img/0/logo/svg/logo--script.svg" height="30"></a>
+
+Também no [Facebook](https://www.facebook.com/groups/dotnetcuritiba)
 
 ## O que você vai encontrar aqui?
 
