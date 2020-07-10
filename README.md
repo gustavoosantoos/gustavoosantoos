@@ -5,7 +5,7 @@ Desenvolvedor full-stack, programando principalmente em .NET Core e Angular.
 Pós-graduando em Arquitetura de Sistemas Distribuídos pela PUC Minas.
 
 
-## Sobre mim
+## O que você vai encontrar aqui?
 
 Aqui existem repositórios sobre tudo que aprendo e projetos pessoais, obviamente, alguns ficaram parados no tempo (rs), mas outros estão em desenvolvimento ativo.
 
