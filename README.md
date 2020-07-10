@@ -7,10 +7,6 @@ Pós-graduando em Arquitetura de Sistemas Distribuídos pela PUC Minas.
 
 ## Sobre mim
 
-- :earth_americas: Curitiba/PR 
-- :airplane: Com interesse em trabalhar no Canadá
-- :computer: Paixão por programação back-end
-
 Aqui existem repositórios sobre tudo que aprendo e projetos pessoais, obviamente, alguns ficaram parados no tempo (rs), mas outros estão em desenvolvimento ativo.
 
 ### Projetos Principais
