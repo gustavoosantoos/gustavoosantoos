@@ -12,16 +12,3 @@ Também no [Facebook](https://www.facebook.com/groups/dotnetcuritiba)
 ## O que você vai encontrar aqui?
 
 Aqui existem repositórios sobre tudo que aprendo e projetos pessoais, obviamente, alguns ficaram parados no tempo (rs), mas outros estão em desenvolvimento ativo.
-
-### Projetos Principais
-- **Chronos**: Projeto que estou desenvolvendo para simplificar minha vida, gerenciando agenda, finanças, tarefas, entre outras coisas.
-  - .NET Core 3.1 no back-end (prentendo incluir algum serviço utilizando Go)
-  - Angular 9 no front-end
-  - Autenticação SSO com Identity Server
-  - Mobile com flutter (não iniciado ainda)
-
-- **Jurify**: Projeto que foi meu TCC no bacharel em Sistemas de Informação, um sistema de idealizava integrar pessoas e advogados. Possui dois fronts: um para clientes e um CRM para advogados.
-  - O sistema de advogados é um CRM para ajudar na gestão do escritório, processos jurídicos e compromissos.
-  - O sistema para clientes é um portal para consulta de advogados por localização e especialidade jurídica, simplificando o contato entre as partes.
-  - .NET Core no back-end
-  - Angular 8 no front-end
