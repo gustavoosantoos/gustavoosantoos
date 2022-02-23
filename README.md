@@ -5,7 +5,7 @@ Desenvolvedor full-stack, programando principalmente em .NET Core e Angular.
 Pós-graduando em Arquitetura de Sistemas Distribuídos pela PUC Minas.
 
 <div>
-  <img width"49%" src="https://github-readme-stats.vercel.app/api?username=gustavoosantoos&theme=dracula&count_private=true&show_icons=true&hide_title=false&hide=stars" />
+  <img width"45%" src="https://github-readme-stats.vercel.app/api?username=gustavoosantoos&theme=dracula&count_private=true&show_icons=true&hide_title=false&hide=stars" />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gustavoosantoos&layout=compact&theme=dracula" />
 </div>
 
