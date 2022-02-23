@@ -4,8 +4,10 @@ Desenvolvedor full-stack, programando principalmente em .NET Core e Angular.
 
 Pós-graduando em Arquitetura de Sistemas Distribuídos pela PUC Minas.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavoosantoos&theme=dracula&count_private=true&show_icons=true&hide_title=false&hide=stars" />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gustavoosantoos&layout=compact&theme=dracula" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavoosantoos&theme=dracula&count_private=true&show_icons=true&hide_title=false&hide=stars" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gustavoosantoos&layout=compact&theme=dracula" />
+</div>
 
 ## Grupo .NET Curitiba
 <a href="https://www.meetup.com/pt-BR/dotnet-curitiba/" target="_blank"><img src="https://secure.meetup.com/s/img/0/logo/svg/logo--script.svg" height="30"></a>
