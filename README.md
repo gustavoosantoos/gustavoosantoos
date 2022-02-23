@@ -2,7 +2,7 @@
 
 Desenvolvedor full-stack, programando principalmente em .NET Core e Angular.
 
-Pós-graduando em Arquitetura de Sistemas Distribuídos pela PUC Minas.
+Pós-graduando em Arquitetura de Sistemas Distribuídos pela PUC Minas. <br/>
 Pós-graduando em Gestão de Pessoas, Liderança e Coaching pela Descomplica.
 
 
